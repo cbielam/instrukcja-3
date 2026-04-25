@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <cmath> // Dołączamy bibliotekę matematyczną, żeby móc obliczyć pierwiastek (sqrt)
-
+using namespace std;
 int main() {
     // Tworzymy zmienne na liczby ułamkowe (double), bo w dzieleniu mogą wyjść ułamki
     double a, b, c, d, x1, x2;
