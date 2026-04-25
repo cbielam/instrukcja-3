@@ -1,5 +1,5 @@
 ﻿#include <iostream> // Dołączamy bibliotekę, która pozwala na wpisywanie i wypisywanie tekstu na ekranie
-
+using namespace std;
 int main() { // Główna funkcja programu - od tego miejsca program zaczyna działać
 
     int n; // Tworzymy zmienną (pudełko) o nazwie 'n', która będzie przechowywać liczby całkowite
