@@ -1,5 +1,5 @@
 ﻿#include <iostream> // Biblioteka do obsługi wprowadzania i wypisywania danych
-
+using namespace std;
 int main() {
     int n; // Zmienna na liczbę podaną przez użytkownika
     long long wynik = 1; // Zmienna na wynik. Ustawiamy na 1, bo w mnożeniu 1 to wartość neutralna (jak 0 w dodawaniu). Co ważne: 0! również wynosi 1.
