@@ -1,5 +1,5 @@
 ﻿#include <iostream> // Biblioteka pozwalająca na wypisywanie tekstu na ekranie
-
+using namespace std;
 int main() {
     // Tworzymy zmienne na dwa początkowe wyrazy ciągu (F_0 i F_1)
     // Używamy 'long long', aby mieć pewność, że w razie większych liczb nie zabraknie miejsca
