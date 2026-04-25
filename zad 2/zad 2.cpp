@@ -1,5 +1,5 @@
 ﻿#include <iostream> // Dołączamy bibliotekę do wprowadzania i wypisywania danych
-
+using namespace std;
 int main() {
     int n; // Zmienna 'n', w której zapiszemy, ile liczb parzystych chce zobaczyć użytkownik
 
